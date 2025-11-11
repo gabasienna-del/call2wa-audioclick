@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:3-71
+INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:3-71
+INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:3-71
+	android:targetSdkVersion
+		ADDED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:40-69
+		INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:13-39
+		INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml
+application
+ADDED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:3:3-41
+INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:3:3-41
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:3:16-39

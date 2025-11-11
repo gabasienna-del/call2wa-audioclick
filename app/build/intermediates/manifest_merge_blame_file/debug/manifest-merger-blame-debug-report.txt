@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.call2wa"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:3-71
+8        android:minSdkVersion="26"
+8-->/data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:13-39
+9        android:targetSdkVersion="33" />
+9-->/data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:2:40-69
+10
+11    <application
+11-->/data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:3:3-41
+12        android:debuggable="true"
+13        android:extractNativeLibs="false"
+14        android:label="Call2WA" />
+14-->/data/data/com.termux/files/home/call2wa-audioclick/app/src/main/AndroidManifest.xml:3:16-39
+15
+16</manifest>
